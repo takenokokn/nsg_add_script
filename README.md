@@ -1,0 +1,2 @@
+# nsg_add_script
+OCIのNSGにセキュリティ・ルールを追加するためのJSONファイルを作成する
